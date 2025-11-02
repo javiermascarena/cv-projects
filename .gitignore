@@ -1,3 +1,5 @@
 tennis/Tennis Player Actions Dataset for Human Pose Estimation
 tennis/runs
 tennis/*.onnx
+tennis/*.JPG
+*.pt
