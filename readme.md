@@ -26,13 +26,10 @@ This project includes data preprocessing, model training, evaluation, and Grad-C
 
 Planned extensions and future experiments include:
 
-🏸 Object Detection – detecting racket or ball positions
-
-🧍 Pose Estimation – keypoint detection for player posture
-
-🎥 Action Recognition – understanding movements in video sequences
-
-🖼️ Image Segmentation – separating objects or regions of interest
+- 🏸 Object Detection – detecting racket or ball positions
+- 🧍 Pose Estimation – keypoint detection for player posture
+- 🎥 Action Recognition – understanding movements in video sequences
+- 🖼️ Image Segmentation – separating objects or regions of interest
 
 
 
