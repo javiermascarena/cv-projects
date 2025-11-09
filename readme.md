@@ -1,36 +1,38 @@
-# 🧠 CV Projects
+# 🧠 Computer Vision Projects
 
-This repository contains small **computer vision projects** designed to learn and apply fundamental concepts across different areas of the field — from image classification to object detection and beyond.
+This repository contains a collection of small **computer vision (CV) projects** aimed at learning and applying key concepts across different areas of the field — from image classification to object detection, pose estimation, and beyond.
 
-Each project focuses on understanding key principles, data handling, and model training in a practical, hands-on way.
+Each project is built to be practical and hands-on, focusing on understanding core principles, data handling, and model training in real-world scenarios.
 
 ---
 
 ## 🎾 Player Actions Classification
 
-This initial project focuses on **classifying tennis player shots**. For this we will build and train a **CNN-based classifier** and compare it with **pre-trained models**.
+The first project in this series focuses on classifying tennis player shots.
+We train a CNN-based classifier and compare its performance with a fine-tuned pre-trained model (MobileNetV3) to distinguish between:
 
-The dataset used is called **"Tennis Player Actions Dataset for Human Pose Estimation"**. It can be found here: https://www.kaggle.com/datasets/orvile/tennis-player-actions-dataset.
+- Forehand
+- Backhand
+- Serve
+- Ready position
 
+Dataset: [Tennis Player Actions Dataset for Human Pose Estimation](https://www.kaggle.com/datasets/orvile/tennis-player-actions-dataset)
+
+This project includes data preprocessing, model training, evaluation, and Grad-CAM explainability visualizations.
 
 ---
 
 ## 🚀 Future Projects
 
-- Object detection (e.g., detecting racket or ball position)
+Planned extensions and future experiments include:
 
-- Pose estimation
+🏸 Object Detection – detecting racket or ball positions
 
-- Action recognition in video sequences
+🧍 Pose Estimation – keypoint detection for player posture
 
-- Image segmentation
+🎥 Action Recognition – understanding movements in video sequences
 
----
-
-## 📘 License
-
-This repository is for educational purposes only.
-Please ensure compliance with dataset copyright and licensing terms.
+🖼️ Image Segmentation – separating objects or regions of interest
 
 
 
